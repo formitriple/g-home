@@ -1,0 +1,1 @@
+Brief warmup / refresher creating google's homepage and search results. Includes some basic toggle functionality for search results and profile.
